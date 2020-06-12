@@ -1,4 +1,5 @@
 .env
-
+.ipynb_checkpoints
+geckodriver.log
 config/*
 !config/.gitkeep
